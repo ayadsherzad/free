@@ -5,6 +5,13 @@
         "description": "And is app hell tools and is 7 tools 7 database is iraq",
         "version": "1.0.5",
         "download": "itms-services://?action=download-manifest&amp;url=https://hell-store.netlify.app/plist/helltools.plist"
+			}, 
+	{
+        "name": "Esign",
+        "icon": "https://hell-store.netlify.app/img/esign.png",
+        "description": "download ipa is file p12 mobileprovision",
+        "version": "5.0.2",
+        "download": "itms-services://?action=download-manifest&amp;url=https://hell-store.netlify.app/plist/esign.plist"
 			}
 ]
 
